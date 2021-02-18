@@ -8,7 +8,7 @@ PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 898,3,"Connolly, Miss. Kate",female,30,0,0,330972,7.6292,,Q
 899,2,"Caldwell, Mr. Albert Francis",male,26,1,1,248738,29,,S
 900,3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18,0,0,2657,7.2292,,C
-901,3,"Davies, Mr. John Samuel",male,21,2,0,A/4 48871,24.15,,S
+901,3,"Davies, Mr. John Samuel",,21,2,0,A/4 48871,24.15,,S
 902,3,"Ilieff, Mr. Ylio",male,,0,0,349220,7.8958,,S
 903,1,"Jones, Mr. Charles Cresson",male,46,0,0,694,26,,S
 904,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23,1,0,21228,82.2667,B45,S
